@@ -1,52 +1,52 @@
 {
   "plugins": {
     "OCEAN ASSIST": {
-      "version": "3.1.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.1.0.vst3",
-      "size": 9701376,
-      "hash": "d560266b96e6007707dd86437bdf2d6e5e1995e1fcb6e40a6fadb30abc43104b4085f360a3899bcab3ab37735e2356575678ce7113d733540136008d87aceaa1",
-      "sig": "b2975bb3c808028dc76cf3e70c6c911658aca7f850b76adb79fa77f21d3f5d97b20f0cd224133c9980754221e23da3abd612b2d0921a025c92c27904ccc70608",
-      "notes": "3.1 : tout le morceau compte (la pause n'efface plus rien), problèmes localisés avec correction seulement à ces endroits et sur la piste fautive, bouton Annuler, onglet Mix réparé, plan d'intentions naturel, master automatique (EQ, colle, limiteur true-peak), reconnaissance par le nom des pistes."
+      "version": "3.1.1",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.1.1.vst3",
+      "size": 9705984,
+      "hash": "b0c701ea94bf9a47a51eab4fd804dfc1e7b014fa0eeda9e950a9e68b1728aaee85ea8e25cfb554ae43451dac349ac2ba28d4e2c227f3f0fbda03b8f6d2945a0a",
+      "sig": "77305998f89fe70fb4cf47a95b37ff42b77879c32e3c2e174102c38a4c0e42828022ccddd02188941c87b080d4c2aeaeb48f9b083966bf60a7bbd16c5c38df02",
+      "notes": "3.1.1 : un problème vu sur le master (trop d'aigus…) est cherché sur toutes tes pistes équipées et corrigé légèrement sur la coupable ; le « clipping » n'est plus signalé quand c'est juste ton limiteur qui touche 0 dB ; la recherche de mise à jour se fait à chaque lancement de FL."
     },
     "OCEAN FX 1": {
-      "version": "3.0.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_FX_1/OCEAN_FX_1-3.0.0.vst3",
+      "version": "3.0.1",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_FX_1/OCEAN_FX_1-3.0.1.vst3",
       "size": 9130496,
-      "hash": "179caa765a9ebb79e72aa5cbaf1ad891decf307b377422fc1a8cf1a7652868daff95f49cb7be0999b5fb5a01566504e4e41dd8a3e8db0af4241d294e10fead23",
-      "sig": "e7e345ae515418e0e7be0c8733ffb7927da688d0e9dcb9ee5cb45c7165cbf847b229303162adb2a3a22cd69edf9a245d6e3aab5eaa10735ec88bafaf0452ea00",
-      "notes": "mises à jour automatiques."
+      "hash": "a3ffe216b6eaad13369ec845a887f7523891d4b3e91d67a89c8bd76131325debdf7c3249b10b10a5adc12f868a31c9a79135d68b9e55d4794ec46df5b23661e3",
+      "sig": "4c177f793208fb690a3b0ed8e605a28ae6c49e60ffbdd84cb6ef7cf52c1042f5b5f962abc5d21abd78be1be37f1d2040006b5b1e9bdc1f948aa35e3717da920d",
+      "notes": "la recherche de mise à jour se fait à chaque lancement de FL."
     },
     "OCEAN FX 2": {
-      "version": "3.0.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_FX_2/OCEAN_FX_2-3.0.0.vst3",
+      "version": "3.0.1",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_FX_2/OCEAN_FX_2-3.0.1.vst3",
       "size": 9130496,
-      "hash": "78dc75c97da01e7c496318a655882ab62581cd86a423cf130b7f18af73e885b44a96d0d673ddd279c8afde4e35fe43b3b179474c11e21f30b240efd168278048",
-      "sig": "58eabdbe25317e450a018d47730e162dcc41d17fcbe77d8a5edd5ee64a1bc0afeda81233ecc91992c1d8f33e84fd7bfcaea25fe59b5440ec43b1c1dbcd526601",
-      "notes": "mises à jour automatiques."
+      "hash": "8ab3db43702ca1b293a581bd64ccb9d3c7ad30063f26467bf4dec14e61ad9a128c0e1103188df051cd8aec53fa78a8c764e36320b0cdc379b4c122cbc27f88cd",
+      "sig": "bc4d53fecaa246bfae9032524cc45ae69c53c41d96c6b93be2cff166cf6bc1dc4d083a808b10c0eda9b4d7f0932da0d2a0a321c0c6e3a12a55736f07e9dbdd0b",
+      "notes": "la recherche de mise à jour se fait à chaque lancement de FL."
     },
     "OCEAN MIX": {
-      "version": "3.0.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_MIX/OCEAN_MIX-3.0.0.vst3",
+      "version": "3.0.1",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_MIX/OCEAN_MIX-3.0.1.vst3",
       "size": 9130496,
-      "hash": "7cc5a550104f312722e00493345deed738486e3d18b4e9db1afa24c0900aaaf56a16040976f7513793775999ae1f5af7347ebf1b32cb7c2647123bbacf6e986b",
-      "sig": "0dd7534613edb72cb0e440f64eb8bc33eb8e22b5f7ffe4167dc1c8ecb3f8451b1226fb0517f49d02b19305a0e91c7f1a39acef2938cfca46dfaa186369963909",
-      "notes": "mises à jour automatiques."
+      "hash": "838d5eb835f62ba807fee8dfe2c212a931fa52f934af45bc911483e2b722719d0232a075c477edc83d17b0fdada013ac0529a66746c859a8f6a231099b785655",
+      "sig": "d5de3951e790407b9ab8834aab1451625e0697fec21f82904413b8f522902235e6e62e196ebb8bf79f45c95a132506447707b19e5e36a69a5cb03c059a13b905",
+      "notes": "la recherche de mise à jour se fait à chaque lancement de FL."
     },
     "STUTTERVOX": {
-      "version": "3.0.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/STUTTERVOX/STUTTERVOX-3.0.0.vst3",
+      "version": "3.0.1",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/STUTTERVOX/STUTTERVOX-3.0.1.vst3",
       "size": 7458304,
-      "hash": "22b6bdc03d69b712c1e3a8c0a8d43626ecdc7a7a52202b20e5404fe76501e08a6a92b2664e64469a5897dc7b3cbb444134346681c9c0743ba1912970647e81ac",
-      "sig": "0bc781128dbd312240396cd66922e35ab3709f76044d33f068a5a7f08ca1ea8809c00a02015c0a325c830183fa30120d6999645a6475daa68df71e3fa38e0f07",
-      "notes": "mises à jour automatiques."
+      "hash": "bc83e7748870f9230bd0cc62c97b671de56f236454b43e96d481052841ce3dc4752aaa2d0e3fc4615495aba443f4b54e57d2cb16a7f21525764ffa8d72637883",
+      "sig": "b475943fc55adf4ccb6a47b1bf2a5a4346a95374597f569c046d2c16c3e1e5557392f27e876d1a60f2221615abf54c90ac35dd52b9e14dd469efb73d0e95730a",
+      "notes": "la recherche de mise à jour se fait à chaque lancement de FL."
     },
     "VERBLIFT": {
-      "version": "3.0.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/VERBLIFT/VERBLIFT-3.0.0.vst3",
+      "version": "3.0.1",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/VERBLIFT/VERBLIFT-3.0.1.vst3",
       "size": 8878592,
-      "hash": "aa2d1f36708bab0fd2b98123ba3b41cfb3f38b8e1237d43d269aa30a6bdfe868485fba7e50109f28367221517c8bd0867058907a6ab66192e85ecf01e616c7c9",
-      "sig": "e283bd0e50dc03089302a96d61c4f769f1724c65b54d38e69aff13e85f81abc4ed491cabc1f6793bef2f8098b0379ad01bc346239d175e26dc94704aa916760a",
-      "notes": "mises à jour automatiques."
+      "hash": "3356c8278b16ca2ce0881f2e9b328b9cd8c5a1b87a7e05d409a33869f6b781da19445c00f4667d8caa01342ece39dd596d2020b75adbe46aed7e3b36e76ce8ac",
+      "sig": "44489c677d86d0b9db7908432c801aa1513fb1d31d11fa315d181e0d1fb3bee0f2c5a1d584c53823fc4d014ce81167abdb1314a98d3ebec8b0afac8c12d12d08",
+      "notes": "la recherche de mise à jour se fait à chaque lancement de FL."
     }
   }
 }
