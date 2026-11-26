@@ -1,0 +1,52 @@
+{
+  "plugins": {
+    "OCEAN ASSIST": {
+      "version": "3.0.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.0.0.vst3",
+      "size": 9482240,
+      "hash": "0d7e3243925d925a26dd5782f69f98c46afa3e122ea90fc549a9b5ef5ba3fa644ec4c91582ec8f9a3e74656358c54bb3e86bf6b241685224f8de8265ec3edafd",
+      "sig": "0b8420204afaad59162edc676673ef6b68e236c88b23d9e3e2bd534e01c230ead3527dc777a11808113f1857d3453d0fce029398a6dab184a77db64710cfb308",
+      "notes": "onglets Morceau et Intentions, mises à jour automatiques."
+    },
+    "OCEAN FX 1": {
+      "version": "3.0.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_FX_1/OCEAN_FX_1-3.0.0.vst3",
+      "size": 9130496,
+      "hash": "179caa765a9ebb79e72aa5cbaf1ad891decf307b377422fc1a8cf1a7652868daff95f49cb7be0999b5fb5a01566504e4e41dd8a3e8db0af4241d294e10fead23",
+      "sig": "e7e345ae515418e0e7be0c8733ffb7927da688d0e9dcb9ee5cb45c7165cbf847b229303162adb2a3a22cd69edf9a245d6e3aab5eaa10735ec88bafaf0452ea00",
+      "notes": "mises à jour automatiques."
+    },
+    "OCEAN FX 2": {
+      "version": "3.0.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_FX_2/OCEAN_FX_2-3.0.0.vst3",
+      "size": 9130496,
+      "hash": "78dc75c97da01e7c496318a655882ab62581cd86a423cf130b7f18af73e885b44a96d0d673ddd279c8afde4e35fe43b3b179474c11e21f30b240efd168278048",
+      "sig": "58eabdbe25317e450a018d47730e162dcc41d17fcbe77d8a5edd5ee64a1bc0afeda81233ecc91992c1d8f33e84fd7bfcaea25fe59b5440ec43b1c1dbcd526601",
+      "notes": "mises à jour automatiques."
+    },
+    "OCEAN MIX": {
+      "version": "3.0.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_MIX/OCEAN_MIX-3.0.0.vst3",
+      "size": 9130496,
+      "hash": "7cc5a550104f312722e00493345deed738486e3d18b4e9db1afa24c0900aaaf56a16040976f7513793775999ae1f5af7347ebf1b32cb7c2647123bbacf6e986b",
+      "sig": "0dd7534613edb72cb0e440f64eb8bc33eb8e22b5f7ffe4167dc1c8ecb3f8451b1226fb0517f49d02b19305a0e91c7f1a39acef2938cfca46dfaa186369963909",
+      "notes": "mises à jour automatiques."
+    },
+    "STUTTERVOX": {
+      "version": "3.0.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/STUTTERVOX/STUTTERVOX-3.0.0.vst3",
+      "size": 7458304,
+      "hash": "22b6bdc03d69b712c1e3a8c0a8d43626ecdc7a7a52202b20e5404fe76501e08a6a92b2664e64469a5897dc7b3cbb444134346681c9c0743ba1912970647e81ac",
+      "sig": "0bc781128dbd312240396cd66922e35ab3709f76044d33f068a5a7f08ca1ea8809c00a02015c0a325c830183fa30120d6999645a6475daa68df71e3fa38e0f07",
+      "notes": "mises à jour automatiques."
+    },
+    "VERBLIFT": {
+      "version": "3.0.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/VERBLIFT/VERBLIFT-3.0.0.vst3",
+      "size": 8878592,
+      "hash": "aa2d1f36708bab0fd2b98123ba3b41cfb3f38b8e1237d43d269aa30a6bdfe868485fba7e50109f28367221517c8bd0867058907a6ab66192e85ecf01e616c7c9",
+      "sig": "e283bd0e50dc03089302a96d61c4f769f1724c65b54d38e69aff13e85f81abc4ed491cabc1f6793bef2f8098b0379ad01bc346239d175e26dc94704aa916760a",
+      "notes": "mises à jour automatiques."
+    }
+  }
+}
