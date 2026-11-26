@@ -1,12 +1,12 @@
 {
   "plugins": {
     "OCEAN ASSIST": {
-      "version": "3.2.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.2.0.vst3",
-      "size": 9769472,
-      "hash": "c715b620ae9fb202be24cd7146e2c7c24435624a19f710e00e04500c9224642bd99fb1ca7d52863642b54ba066f1aeedb762f0ef39479462fe6ac354589fd9be",
-      "sig": "6858d7c814ffd6ae56f7960cabb9a95327e9292c6ebffd027556e3f43bab10656a119098686cdf2381361269dccfefeddf22d78f4683f5753f58409e9aedb805",
-      "notes": "3.2 : sidechain kick → basse sans câblage, phase et alignement des kicks superposés, place pour la voix (les instruments se creusent seulement quand la voix chante), anti-résonances façon Soothe, écoute « sans » au même volume (corrections et master)."
+      "version": "3.3.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.3.0.vst3",
+      "size": 9847296,
+      "hash": "9a2fef2444e8c362f639cf369b890eabff31f98a72c339c8aef019dcbe9a97c22138dcafec60dd5f4f9cc987633f02692dd9c545d920338c8b89d3d5619ff554",
+      "sig": "199ac52fec40ccbe607e49c69db5b5cdc39cfb3a9b0c2fdcd0928739f9e7bfef92fb7bf39c5fd0a0820a8983ebcd5d93a744fc3b1aec390f485b227ea9dac609",
+      "notes": "3.3 : gain staging de toutes les pistes en un clic, références de style apprises (tes morceaux et tes références pro), il apprend tes choix (dose habituelle, conseils que tu refuses), « Écouter comme » téléphone / Bluetooth / voiture / mono, FX d'arrangement par partie (onglet Morceau)."
     },
     "OCEAN FX 1": {
       "version": "3.0.1",
