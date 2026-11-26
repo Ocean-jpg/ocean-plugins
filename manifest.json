@@ -1,12 +1,12 @@
 {
   "plugins": {
     "OCEAN ASSIST": {
-      "version": "3.1.1",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.1.1.vst3",
-      "size": 9705984,
-      "hash": "b0c701ea94bf9a47a51eab4fd804dfc1e7b014fa0eeda9e950a9e68b1728aaee85ea8e25cfb554ae43451dac349ac2ba28d4e2c227f3f0fbda03b8f6d2945a0a",
-      "sig": "77305998f89fe70fb4cf47a95b37ff42b77879c32e3c2e174102c38a4c0e42828022ccddd02188941c87b080d4c2aeaeb48f9b083966bf60a7bbd16c5c38df02",
-      "notes": "3.1.1 : un problème vu sur le master (trop d'aigus…) est cherché sur toutes tes pistes équipées et corrigé légèrement sur la coupable ; le « clipping » n'est plus signalé quand c'est juste ton limiteur qui touche 0 dB ; la recherche de mise à jour se fait à chaque lancement de FL."
+      "version": "3.2.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.2.0.vst3",
+      "size": 9769472,
+      "hash": "c715b620ae9fb202be24cd7146e2c7c24435624a19f710e00e04500c9224642bd99fb1ca7d52863642b54ba066f1aeedb762f0ef39479462fe6ac354589fd9be",
+      "sig": "6858d7c814ffd6ae56f7960cabb9a95327e9292c6ebffd027556e3f43bab10656a119098686cdf2381361269dccfefeddf22d78f4683f5753f58409e9aedb805",
+      "notes": "3.2 : sidechain kick → basse sans câblage, phase et alignement des kicks superposés, place pour la voix (les instruments se creusent seulement quand la voix chante), anti-résonances façon Soothe, écoute « sans » au même volume (corrections et master)."
     },
     "OCEAN FX 1": {
       "version": "3.0.1",
