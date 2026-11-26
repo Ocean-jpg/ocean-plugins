@@ -1,12 +1,12 @@
 {
   "plugins": {
     "OCEAN ASSIST": {
-      "version": "3.0.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.0.0.vst3",
-      "size": 9482240,
-      "hash": "0d7e3243925d925a26dd5782f69f98c46afa3e122ea90fc549a9b5ef5ba3fa644ec4c91582ec8f9a3e74656358c54bb3e86bf6b241685224f8de8265ec3edafd",
-      "sig": "0b8420204afaad59162edc676673ef6b68e236c88b23d9e3e2bd534e01c230ead3527dc777a11808113f1857d3453d0fce029398a6dab184a77db64710cfb308",
-      "notes": "onglets Morceau et Intentions, mises à jour automatiques."
+      "version": "3.1.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.1.0.vst3",
+      "size": 9701376,
+      "hash": "d560266b96e6007707dd86437bdf2d6e5e1995e1fcb6e40a6fadb30abc43104b4085f360a3899bcab3ab37735e2356575678ce7113d733540136008d87aceaa1",
+      "sig": "b2975bb3c808028dc76cf3e70c6c911658aca7f850b76adb79fa77f21d3f5d97b20f0cd224133c9980754221e23da3abd612b2d0921a025c92c27904ccc70608",
+      "notes": "3.1 : tout le morceau compte (la pause n'efface plus rien), problèmes localisés avec correction seulement à ces endroits et sur la piste fautive, bouton Annuler, onglet Mix réparé, plan d'intentions naturel, master automatique (EQ, colle, limiteur true-peak), reconnaissance par le nom des pistes."
     },
     "OCEAN FX 1": {
       "version": "3.0.0",
