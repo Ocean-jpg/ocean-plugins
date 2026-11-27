@@ -1,12 +1,12 @@
 {
   "plugins": {
     "OCEAN ASSIST": {
-      "version": "3.6.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.6.0.vst3",
-      "size": 10403328,
-      "hash": "7f1c7a2041c92f58c02904e384790c601a9584f7ee29abe30c1e63cc15f98206f8602ec2283dc51244759ac23ad25f323c6c7875a58b75216d723fab7fae0cef",
-      "sig": "0b73ea5dd1ffdec541aed59f52d0ba84170332640e48662b0960441f301088c7511039db172c1a481072f2c1ff07c3e75caf7fdbf5ff77250ce6d8c9423fb502",
-      "notes": "sur le master : notes qui se frottent entre pistes (avec la note à changer et où), notes hors tonalité, piste désaccordée (808, sample pitché), courbe d'énergie des parties (onglet Morceau) et refrain qui ne monte pas ; avertissement clair quand le master baisse le volume (destination Streaming : choisis « Fort » pour un son fort)."
+      "version": "3.7.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.7.0.vst3",
+      "size": 10525184,
+      "hash": "c515c197ee487e587a8311408dbc1d6d05d61b74ac192ceab6697dfa2075299d87af7a38f94d4263b77944a9b2397819ff7a0795910e36ea365cd47d11a1f64b",
+      "sig": "f1e7c76c5c4e87d0efb2db92c120421b636a3a054b71cdece79e640194c9adea687ee043179f8163e2d911e5936716345ef0a41eba71508912468c7b70c1c306",
+      "notes": "nouvel onglet Idées : accords, basse et mélodie MIDI dans la tonalité et au tempo du morceau, à glisser dans FL ; nouvel onglet Suivi : mode guidé, versions du mix à comparer, contrôle automatique de l'export, rapport, historique, mode léger pour les gros projets."
     },
     "OCEAN FX 1": {
       "version": "3.1.0",
