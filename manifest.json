@@ -1,12 +1,12 @@
 {
   "plugins": {
     "OCEAN ASSIST": {
-      "version": "3.5.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.5.0.vst3",
-      "size": 10357760,
-      "hash": "696e2de8c4a4c67320047eb13150a98c7d26eff4af19494736dd22e53f392c4117ed15adf721d83cc372075509765c752ea117752f32387951e285236834b606",
-      "sig": "bb549ff32f657c1d11c8210a64e367ed6034194d70bd46c1525f04c7081713a299bc476a1553642f6aec9c81f63b8df42244d0eca98529df2741772d568bed03",
-      "notes": "sur le master : tonalité du morceau (envoyée à OCEAN VOICE) ; « Aussi ici » montre les autres plugins OCEAN de la piste ; nouveaux conseils reverb/delay (trop longue pour le tempo, trop mouillée, graves dans la reverb, delay pas calé) ; master multibande quand les graves ou les aigus sautent d'un passage à l'autre."
+      "version": "3.6.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.6.0.vst3",
+      "size": 10403328,
+      "hash": "7f1c7a2041c92f58c02904e384790c601a9584f7ee29abe30c1e63cc15f98206f8602ec2283dc51244759ac23ad25f323c6c7875a58b75216d723fab7fae0cef",
+      "sig": "0b73ea5dd1ffdec541aed59f52d0ba84170332640e48662b0960441f301088c7511039db172c1a481072f2c1ff07c3e75caf7fdbf5ff77250ce6d8c9423fb502",
+      "notes": "sur le master : notes qui se frottent entre pistes (avec la note à changer et où), notes hors tonalité, piste désaccordée (808, sample pitché), courbe d'énergie des parties (onglet Morceau) et refrain qui ne monte pas ; avertissement clair quand le master baisse le volume (destination Streaming : choisis « Fort » pour un son fort)."
     },
     "OCEAN FX 1": {
       "version": "3.1.0",
