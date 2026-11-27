@@ -1,12 +1,12 @@
 {
   "plugins": {
     "OCEAN ASSIST": {
-      "version": "3.3.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.3.0.vst3",
-      "size": 9847296,
-      "hash": "9a2fef2444e8c362f639cf369b890eabff31f98a72c339c8aef019dcbe9a97c22138dcafec60dd5f4f9cc987633f02692dd9c545d920338c8b89d3d5619ff554",
-      "sig": "199ac52fec40ccbe607e49c69db5b5cdc39cfb3a9b0c2fdcd0928739f9e7bfef92fb7bf39c5fd0a0820a8983ebcd5d93a744fc3b1aec390f485b227ea9dac609",
-      "notes": "3.3 : gain staging de toutes les pistes en un clic, références de style apprises (tes morceaux et tes références pro), il apprend tes choix (dose habituelle, conseils que tu refuses), « Écouter comme » téléphone / Bluetooth / voiture / mono, FX d'arrangement par partie (onglet Morceau)."
+      "version": "3.4.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.4.0.vst3",
+      "size": 10288128,
+      "hash": "d808db8a26ddf246e1dd040a6d7b644ced650af8c5ae52b913b4b91e009619be422f3a40998f23b2579e268a0e5f19f9fe5f6354969b65a04ea843b374aa6a1d",
+      "sig": "ba2fac79f2bc5c9aa813336a94a1ed003f25d18114c9dc19d715d84570d23c6828c85fa15b62b956ffd73976a448ecfd9729a534a011ab6cfcb2897e7a0c2700",
+      "notes": "3.4 : MIX AUTOMATIQUE en un clic sur le master (niveaux sans saturation, équilibre par rôle, refrain en avant, corrections de base), écoute sans au même volume, ton arbitrage dans Intentions (clic sur une piste ou une case). Plus : saturation propre (harmoniques des graves), clipper doux avant le limiteur du master, transients, rider de voix."
     },
     "OCEAN FX 1": {
       "version": "3.0.1",
