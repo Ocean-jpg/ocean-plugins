@@ -1,52 +1,62 @@
 {
   "plugins": {
     "OCEAN ASSIST": {
-      "version": "3.4.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.4.0.vst3",
-      "size": 10288128,
-      "hash": "d808db8a26ddf246e1dd040a6d7b644ced650af8c5ae52b913b4b91e009619be422f3a40998f23b2579e268a0e5f19f9fe5f6354969b65a04ea843b374aa6a1d",
-      "sig": "ba2fac79f2bc5c9aa813336a94a1ed003f25d18114c9dc19d715d84570d23c6828c85fa15b62b956ffd73976a448ecfd9729a534a011ab6cfcb2897e7a0c2700",
-      "notes": "3.4 : MIX AUTOMATIQUE en un clic sur le master (niveaux sans saturation, équilibre par rôle, refrain en avant, corrections de base), écoute sans au même volume, ton arbitrage dans Intentions (clic sur une piste ou une case). Plus : saturation propre (harmoniques des graves), clipper doux avant le limiteur du master, transients, rider de voix."
+      "version": "3.4.1",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.4.1.vst3",
+      "size": 10299904,
+      "hash": "2e7c94f9d9df1453fb5c91f1094e0173425a270b4d735a341a6c923cd6272736b1598be957e558660f6d29c78b9f7680ada8df25833cd32c630bbfd3c06ce906",
+      "sig": "b405cd82d4b79878a064d1a07033794c9b1c81e61f9720aa9f4b6aa4be537e0dfd1d575535b60905e13a16fc325990e79ad39397a832904c9c89a0afb144ff0b",
+      "notes": "propose d'installer OCEAN VOICE ; sur une piste voix, renvoie vers OCEAN VOICE ; le message « est passé en … » ne revient plus après avoir été fermé."
     },
     "OCEAN FX 1": {
-      "version": "3.0.1",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_FX_1/OCEAN_FX_1-3.0.1.vst3",
-      "size": 9130496,
-      "hash": "a3ffe216b6eaad13369ec845a887f7523891d4b3e91d67a89c8bd76131325debdf7c3249b10b10a5adc12f868a31c9a79135d68b9e55d4794ec46df5b23661e3",
-      "sig": "4c177f793208fb690a3b0ed8e605a28ae6c49e60ffbdd84cb6ef7cf52c1042f5b5f962abc5d21abd78be1be37f1d2040006b5b1e9bdc1f948aa35e3717da920d",
-      "notes": "la recherche de mise à jour se fait à chaque lancement de FL."
+      "version": "3.0.2",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_FX_1/OCEAN_FX_1-3.0.2.vst3",
+      "size": 9141248,
+      "hash": "fffceb4b152878323cff9b30fa06af873270dd4ff12b30d79a04c232f7eea589c9b1b43c65532108914e1c6a1a3d6cb9f9a3fc818cd1774128df479890c33a7c",
+      "sig": "9104bbc3c692ac7fafcf5dbc57f409cd7d16d2a470ca7812c97eaf450d530fea167023f1bdbc83301d777c30c4acfb0ada13638722e004169a04988207fafc01",
+      "notes": "propose d'installer OCEAN VOICE ; le message de mise à jour ne revient plus après avoir été fermé."
     },
     "OCEAN FX 2": {
-      "version": "3.0.1",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_FX_2/OCEAN_FX_2-3.0.1.vst3",
-      "size": 9130496,
-      "hash": "8ab3db43702ca1b293a581bd64ccb9d3c7ad30063f26467bf4dec14e61ad9a128c0e1103188df051cd8aec53fa78a8c764e36320b0cdc379b4c122cbc27f88cd",
-      "sig": "bc4d53fecaa246bfae9032524cc45ae69c53c41d96c6b93be2cff166cf6bc1dc4d083a808b10c0eda9b4d7f0932da0d2a0a321c0c6e3a12a55736f07e9dbdd0b",
-      "notes": "la recherche de mise à jour se fait à chaque lancement de FL."
+      "version": "3.0.2",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_FX_2/OCEAN_FX_2-3.0.2.vst3",
+      "size": 9141248,
+      "hash": "1d95c65a5b7c37bb5d774bb6e8cd15e897b1db1259daafa3e38aa002bd093742e740aa8c53acfcc87b1adf3b6c973683997de7f9a426217cc0011ed8b2d8795b",
+      "sig": "e191cc396124d19927aa4e430d2482b33bf343b6c544732d46bf31b503177534ed71196a62268634182a7a1bbdcdda8773308a96796c6940637860fbdbaee505",
+      "notes": "propose d'installer OCEAN VOICE ; le message de mise à jour ne revient plus après avoir été fermé."
     },
     "OCEAN MIX": {
-      "version": "3.0.1",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_MIX/OCEAN_MIX-3.0.1.vst3",
-      "size": 9130496,
-      "hash": "838d5eb835f62ba807fee8dfe2c212a931fa52f934af45bc911483e2b722719d0232a075c477edc83d17b0fdada013ac0529a66746c859a8f6a231099b785655",
-      "sig": "d5de3951e790407b9ab8834aab1451625e0697fec21f82904413b8f522902235e6e62e196ebb8bf79f45c95a132506447707b19e5e36a69a5cb03c059a13b905",
-      "notes": "la recherche de mise à jour se fait à chaque lancement de FL."
+      "version": "3.0.2",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_MIX/OCEAN_MIX-3.0.2.vst3",
+      "size": 9141248,
+      "hash": "01f20749055fec0bd8f677596a1e36b1598569d243c8b451334b3b85ae61647b1a066f85d25d1f9c21a83889bf5071106148b719c02cac0c213511617745b65a",
+      "sig": "b2312037f07ed25071cc2ffa591e13968961c50692de4c0247daa81a3fa10b01b032b7b0e7137ff5fd0de49bb08ccdb5baa45665c9d0193a281e4bb6cbe1f301",
+      "notes": "propose d'installer OCEAN VOICE ; le message de mise à jour ne revient plus après avoir été fermé."
     },
     "STUTTERVOX": {
-      "version": "3.0.1",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/STUTTERVOX/STUTTERVOX-3.0.1.vst3",
-      "size": 7458304,
-      "hash": "bc83e7748870f9230bd0cc62c97b671de56f236454b43e96d481052841ce3dc4752aaa2d0e3fc4615495aba443f4b54e57d2cb16a7f21525764ffa8d72637883",
-      "sig": "b475943fc55adf4ccb6a47b1bf2a5a4346a95374597f569c046d2c16c3e1e5557392f27e876d1a60f2221615abf54c90ac35dd52b9e14dd469efb73d0e95730a",
-      "notes": "la recherche de mise à jour se fait à chaque lancement de FL."
+      "version": "3.0.2",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/STUTTERVOX/STUTTERVOX-3.0.2.vst3",
+      "size": 7469056,
+      "hash": "456cf70c8b1060d147e625acfa460aa1c11decd475dca1c4fe42fb526dbcb9016cc43b7d0a7c386c9b1b56cf778481a6e0e8d4d949982704a5b3a63e95a33ddc",
+      "sig": "5a2176a90df2385d2d1651a401e769da33fae5f9472ea4907be364e0b04ea40bde55fa5982d1700f3bc2c34b38439650a7e3b37a7a7e705b1600ae0b03316c08",
+      "notes": "propose d'installer OCEAN VOICE ; le message de mise à jour ne revient plus après avoir été fermé."
     },
     "VERBLIFT": {
-      "version": "3.0.1",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/VERBLIFT/VERBLIFT-3.0.1.vst3",
-      "size": 8878592,
-      "hash": "3356c8278b16ca2ce0881f2e9b328b9cd8c5a1b87a7e05d409a33869f6b781da19445c00f4667d8caa01342ece39dd596d2020b75adbe46aed7e3b36e76ce8ac",
-      "sig": "44489c677d86d0b9db7908432c801aa1513fb1d31d11fa315d181e0d1fb3bee0f2c5a1d584c53823fc4d014ce81167abdb1314a98d3ebec8b0afac8c12d12d08",
-      "notes": "la recherche de mise à jour se fait à chaque lancement de FL."
+      "version": "3.0.2",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/VERBLIFT/VERBLIFT-3.0.2.vst3",
+      "size": 8888320,
+      "hash": "324e2f19e4101a5dc910d0a3d66eb300378e21413f910ac9f11e694fd648e866c81072594b2def5333b34b6e436f5edd384841fe0a71e05b22933b74bed73b3d",
+      "sig": "b6b1dacdd47c05c96ef6a3b312ad4faaab5779ec29c7c18f479f13942d27de1e57d204e418f18e2fe51f54ac554c9c0d4b639f6616de428578edca9b0ff8ce09",
+      "notes": "propose d'installer OCEAN VOICE ; le message de mise à jour ne revient plus après avoir été fermé."
+    },
+    "OCEAN VOICE": {
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_VOICE/OCEAN_VOICE-1.0.0.vst3",
+      "size": 9126912,
+      "hash": "e97727b81faa8c1afb1d2132db49c888fbd892e3add484682e0aff9429ba4f6b4e03dea1e43c0f79adeed9dfbff6e67da877d707a778ddc2798f699227adb522",
+      "sig": "aec8780634162341cd4a11c02dc8102fb6297076a6f175d0fa3fa1c130ee557da8edbf21e8491a7a1a6b11c20d8cf823a78a237bb5cff187a2e866a2a1263404",
+      "notes": "Nouveau plugin : 9 styles de voix (Naturel, Rap autotune, Pop EDM, Voix large, Sombre trap, Radio, Lo-fi, Ad-libs, Voix lointaine) avec Intensité, 4 réglages simples et écoute sans au même volume. S'adapte à la voix (acapella déjà traitée = plus léger). Onglet Conseils : calage rythmique, tonalité pour ton autotune, style conseillé.",
+      "new": true,
+      "desc": "styles de voix en un clic"
     }
   }
 }

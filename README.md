@@ -1,6 +1,6 @@
 # Plugins OCEAN — mises à jour
 
-Plugins VST3 perso pour FL Studio (Windows) : **VERBLIFT**, **OCEAN FX 1**, **OCEAN FX 2**, **OCEAN MIX**, **STUTTERVOX**, **OCEAN ASSIST**.
+Plugins VST3 perso pour FL Studio (Windows) : **VERBLIFT**, **OCEAN FX 1**, **OCEAN FX 2**, **OCEAN MIX**, **STUTTERVOX**, **OCEAN ASSIST**, **OCEAN VOICE**.
 
 - `installer/` : l'installation de départ (à faire une seule fois, voir le LISEZ-MOI dans le zip).
 - `manifest.json` : la dernière version de chaque plugin. Les plugins installés le lisent toutes les 6 h
