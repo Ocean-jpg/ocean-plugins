@@ -1,60 +1,60 @@
 {
   "plugins": {
     "OCEAN ASSIST": {
-      "version": "3.7.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.7.0.vst3",
-      "size": 10525184,
-      "hash": "c515c197ee487e587a8311408dbc1d6d05d61b74ac192ceab6697dfa2075299d87af7a38f94d4263b77944a9b2397819ff7a0795910e36ea365cd47d11a1f64b",
-      "sig": "f1e7c76c5c4e87d0efb2db92c120421b636a3a054b71cdece79e640194c9adea687ee043179f8163e2d911e5936716345ef0a41eba71508912468c7b70c1c306",
-      "notes": "nouvel onglet Idées : accords, basse et mélodie MIDI dans la tonalité et au tempo du morceau, à glisser dans FL ; nouvel onglet Suivi : mode guidé, versions du mix à comparer, contrôle automatique de l'export, rapport, historique, mode léger pour les gros projets."
+      "version": "3.8.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_ASSIST/OCEAN_ASSIST-3.8.0.vst3",
+      "size": 10604544,
+      "hash": "d2a02fa73a1a22bf6d197f6e6bfcb0ea7b009ca752210b9e2d8d8e243958c61fc82cee3e4aebc410187336ef47bec93a479e6b1c8e55bcccac5c68908127ced5",
+      "sig": "d3f2aced2f3c69873d318b674222d25cba881b291113bfd028e9730d0a4cd74cbbdb5f72abd6e32c04cb160c355fba8f22f5a33df82c642d7e7547f841d1cc05",
+      "notes": "Problèmes : les 3 plus importants d'abord (le reste se déplie). « Écouter le problème » : la piste en cause seule, filtrée sur la zone. « Spectres superposés » dans l'onglet Mix. Courbe d'EQ dans Corrections. Comparaison avec le refrain de ta référence. Écoute A/B des versions gardées (onglet Suivi). Conseils plus justes (plus de doublons contradictoires, crête à 0 dB, Test petit HP repéré)."
     },
     "OCEAN FX 1": {
-      "version": "3.1.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_FX_1/OCEAN_FX_1-3.1.0.vst3",
+      "version": "3.2.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_FX_1/OCEAN_FX_1-3.2.0.vst3",
       "size": 9149440,
-      "hash": "9c17ad9b11733cc238247fd3f13ea1d32e2ab0546afb69e6c4693254f5eae635cf1a5195b6c775e19c8060bb9769f6110c35fef01862380321ca37495e50a17a",
-      "sig": "ba9c6d84d19cd7fb0b931dd44d17d2a8cd823246f91859fa1173ae423230a7cf5783f5d8549bc414a8c16e27964e384dbdbdb68f90f6e6ed2734fd5c8d424b03",
-      "notes": "tous les plugins OCEAN se parlent maintenant (ASSIST voit ce qu'ils font sur chaque piste)."
+      "hash": "34029ba96363ef38494cb5099aef42165c297eaaee22632b540ca2062110052d29572b2d9552f998add8f4bf5833eac587f3c465c45985d0048afd77957d39c9",
+      "sig": "a20b96616b1e099254234627eb25ec6d2df905ce1a6ed4d1dda0ae0cf379f72adf7cabbec67a176a2df06ce5f26a703f25c618b04bbf99c49a00531d5e633d0d",
+      "notes": "Un clic sur une tuile la choisit sans l'allumer. Glisser moins sensible (Maj = réglage fin). Test petit HP coupé automatiquement pendant un export, voyant rouge quand il est allumé."
     },
     "OCEAN FX 2": {
-      "version": "3.1.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_FX_2/OCEAN_FX_2-3.1.0.vst3",
+      "version": "3.2.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_FX_2/OCEAN_FX_2-3.2.0.vst3",
       "size": 9149440,
-      "hash": "9e6d6637711b88db41293a1e2bb49c25a6a6e77c186d363f721b854fce446b5582f5942b5b4efd776c6b4a7240238e1bf36e4a98363e39e14bc64ff8e4ad3144",
-      "sig": "885000c2d73724f986d739061ce8d544fabe761e10ef3a098b3f64224d4ad54c285fbdd2b53714cf0fba37a8fc6e546da3c38939af69455618e95c111ab4e10d",
-      "notes": "tous les plugins OCEAN se parlent maintenant (ASSIST voit ce qu'ils font sur chaque piste)."
+      "hash": "bb14c9eb85c980da3a6afb57748c05a04c34e65889d1cd75e337e861075ec87e74142af3f35a12d9eb3b207a650c3fad21f985a9778ca7bc881e99ddf5439a54",
+      "sig": "00a514e8dddd5af7c550622f84e76df97a41dbea8284ca5b71c62f510ada24757e832f98e98210f3f9377bc3779a2f2796333d8207f1404ac579825b000d6f04",
+      "notes": "Un clic sur une tuile la choisit sans l'allumer. Glisser moins sensible (Maj = réglage fin). Test petit HP coupé automatiquement pendant un export, voyant rouge quand il est allumé."
     },
     "OCEAN MIX": {
-      "version": "3.1.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_MIX/OCEAN_MIX-3.1.0.vst3",
+      "version": "3.2.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_MIX/OCEAN_MIX-3.2.0.vst3",
       "size": 9149440,
-      "hash": "e7e90228120440e1e5213a45dbb7aa015bdd165cedad045079dcffb0c1711c0cbb572c4b334787e1cf0e5577c89a40bbfb56c9077796336df43c775b95d025b2",
-      "sig": "8610859f21137137d21e631417713d929b9e6b0b83ade3d6d8fd20336e7bd93b65437dded1fe4db98ff20217b36d8f726de2036a5e1bacadaa67baf326ef9f0d",
-      "notes": "tous les plugins OCEAN se parlent maintenant (ASSIST voit ce qu'ils font sur chaque piste)."
+      "hash": "144e896a47ef5edc1932ef5d0636eb673048f3e780d3724b33409bbbd61ed7e014d28d85ace3a5d3f19cf3ce3403dbf9ff2e431c9297c0b2eaba6f940e5b9091",
+      "sig": "5dd151ba52f1d97077a5de88ce6cacf1086c39c409655882d5392f0371f6121d07c72856ae01390d6cf3cb907dfe2ccde8cf871cd6fa59685ed591769036a706",
+      "notes": "Un clic sur une tuile la choisit sans l'allumer. Glisser moins sensible (Maj = réglage fin). Test petit HP coupé automatiquement pendant un export, voyant rouge quand il est allumé."
     },
     "STUTTERVOX": {
-      "version": "3.1.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/STUTTERVOX/STUTTERVOX-3.1.0.vst3",
-      "size": 7476224,
-      "hash": "1e892b12868c2efd468bc378d35251d2647d30a16b8e3302aab18c8c98c94dd0822a35d452282056358878d37dcf22af847a94e7eef98faf6f87948e16f5e861",
-      "sig": "1b90d791b7ae630cc72248a222a71b4cf645a0fa1d2989c3d7ce41bde9620215bdab47b33f411c406d7b1bd956fdc170bf25b35d9a1eca30a2daf32d4b241902",
-      "notes": "tous les plugins OCEAN se parlent maintenant (ASSIST voit ce qu'ils font sur chaque piste)."
+      "version": "3.2.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/STUTTERVOX/STUTTERVOX-3.2.0.vst3",
+      "size": 7476736,
+      "hash": "369e273debe5d7a31f7bbbf51044014905b302b09d88991a7f9ab1c68d44818fce285865b0b3c0bb52edfff39c6304ef0e4004a673c61566c9daa3eada741584",
+      "sig": "6f98d0abd6af68ac0a644558a688a009b6d15cc637d94ebda08835217f0231ede30895371a58510a6e2a9f7593bf06ad3b0a33cbb3a05120f5d121e7b31fef07",
+      "notes": "Mix à 0 % à l'insertion (rien ne change tant que tu ne le montes pas). Aide sur la barre de pas. Le bouton Timbre part du centre."
     },
     "VERBLIFT": {
-      "version": "3.1.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/VERBLIFT/VERBLIFT-3.1.0.vst3",
-      "size": 8896512,
-      "hash": "d5dd8c615bdae9f89c2d0bb7dca0c303cfa116d6549751876964adf2d7b3ae382481e86d2acfa613aaae962215aa89f7430118751001e38cd609fcae82f74a06",
-      "sig": "90e4275be09fb5b90435385645136a47dc2ac20b9f3ddf244e9e4a6c644e6736a3affa850cdaa7ea2874ac5bf923997cbcb3b733e7d76ccc833a13d0904ddc06",
-      "notes": "tous les plugins OCEAN se parlent maintenant (ASSIST voit ce qu'ils font sur chaque piste)."
+      "version": "3.2.0",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/VERBLIFT/VERBLIFT-3.2.0.vst3",
+      "size": 8899072,
+      "hash": "16b307a05d355f08c5c9be79e1d5908f88d9aef542625559d2b13a3eed8ee828b293a76244b061e7f2b00c42c5b8d355330a4dbd7884c44e12a88b41f813fe04",
+      "sig": "94695f72cb428d4cd605fdeba080d9857f964ad9c305f71c6d1a0076efbaf195994ce14bd98ed4069212c00552e064209056034fcb3118323e87516d4f4e0d0b",
+      "notes": "Tu vois le son arriver pendant la capture. La durée du fichier est expliquée (montée + bout de sélection avant l'attaque)."
     },
     "OCEAN VOICE": {
-      "version": "1.1.0",
-      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_VOICE/OCEAN_VOICE-1.1.0.vst3",
+      "version": "1.1.1",
+      "url": "https://raw.githubusercontent.com/Ocean-jpg/ocean-plugins/main/bin/OCEAN_VOICE/OCEAN_VOICE-1.1.1.vst3",
       "size": 9135104,
-      "hash": "51bd40ab843f7cd29c8cf8d483f6ae814c6ae00548ff29bcd14b9a4b996502f6cc4b6cef0f37265dec564a6f10a31e4750ad66420c76c70968483c408fe3ed79",
-      "sig": "73acbfc4fa00ccdd21c41212fc8d35e1669dabcb6ef9418e5c0b194549004568388a8fcfb07da7f2f36974a6c8911dc190a03cb98fa3a9236303f4108128eb02",
-      "notes": "reçoit la tonalité du morceau trouvée par OCEAN ASSIST sur le master (fiable même sur du rap) ; tous les plugins OCEAN se parlent maintenant (ASSIST voit ce qu'ils font sur chaque piste).",
+      "hash": "707bee4e43ff2bbdad9a8be4cb6e77031d6e9df3f3147ddd49bf8958c5b76dd1c54a0f6d138cc4e97d2233c0b2392ef478da14a0056d0c8be3cced08850f600c",
+      "sig": "f9cdc419c0312dd2da839bbedb9c71f685d2bf48da37995713d21b9f6a11a65d8adf1523d51fe7c6dc1aa394cb63b0283f2f0d532e33f71d766a4ff5edb5d30b",
+      "notes": "Bandeau de mise à jour lisible en entier (2 lignes).",
       "new": true,
       "desc": "styles de voix en un clic"
     }
